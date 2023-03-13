@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Facebook Login Sample</string>
+
+    <string name="facebook_app_id">718813848946827</string>
+
+    <string name="fb_login_protocol_scheme">fb718813848946827</string>
+
+    <string name="google_map_key">AIzaSyAMOoTT8MrZOl2QaJOYtXVuw_DA8ovDk0k</string>
+
+    <string name="default_notification_channel_id">solo_mas_id</string>
+
+</resources>

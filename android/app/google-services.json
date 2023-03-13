@@ -1,0 +1,139 @@
+{
+  "project_info": {
+    "project_number": "380915872788",
+    "firebase_url": "https://solo-mas.firebaseio.com",
+    "project_id": "solo-mas",
+    "storage_bucket": "solo-mas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380915872788:android:b1c210c30b702aaea42301",
+        "android_client_info": {
+          "package_name": "com.solomas.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380915872788-qi34jqg759enbrhleg60bb5h7fpurg9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQpeB1brNz36YgQOfEoX_tjSNzatzIo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380915872788-qi34jqg759enbrhleg60bb5h7fpurg9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380915872788-22b61jtri5nmqs42mqkucpeaou5h88q1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solomas1.solomascode"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380915872788:android:7c9786f12dee57bca42301",
+        "android_client_info": {
+          "package_name": "com.solomas1.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380915872788-1qrrn4jl7alqqnc51naitds2bmn0f4f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solomas1.android",
+            "certificate_hash": "29701883d1dcf1cd181bf18aa9b7b2d61254820b"
+          }
+        },
+        {
+          "client_id": "380915872788-26am6ljrnsiub9frin4q0n86b2hdlban.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solomas1.android",
+            "certificate_hash": "5f7e0ee9b4060814ea980c37635cfbc20f8fd3a8"
+          }
+        },
+        {
+          "client_id": "380915872788-cp095gpnqcbj5pe3qcln3frvidcv1g9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solomas1.android",
+            "certificate_hash": "e8f12ac6ee432bdacf801daef596db97c4d44d7f"
+          }
+        },
+        {
+          "client_id": "380915872788-e4765794jtmemfogbq6etjbejl049lts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solomas1.android",
+            "certificate_hash": "e68ce9017b297d7ee3e83fc188acd3bd79bdbcec"
+          }
+        },
+        {
+          "client_id": "380915872788-hejaenqpg8prdvf8mmlkr9f0r8g8l1d6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solomas1.android",
+            "certificate_hash": "a113abd012bcf1bf283481a78eb99e273e62550b"
+          }
+        },
+        {
+          "client_id": "380915872788-mdttica69tqmqgv4htmnurh27e6s2u8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solomas1.android",
+            "certificate_hash": "b5bb5bba6c524d73c1c25a71f038c2cfee0b4fbf"
+          }
+        },
+        {
+          "client_id": "380915872788-q7h72k9uvcqkc6h7qqq4chnehqmtsujo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solomas1.android",
+            "certificate_hash": "2cec2a27d9d2c6b0f320cdbc37743f428fcd0542"
+          }
+        },
+        {
+          "client_id": "380915872788-qi34jqg759enbrhleg60bb5h7fpurg9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQpeB1brNz36YgQOfEoX_tjSNzatzIo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380915872788-qi34jqg759enbrhleg60bb5h7fpurg9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380915872788-22b61jtri5nmqs42mqkucpeaou5h88q1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solomas1.solomascode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

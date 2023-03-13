@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>image_picture</title>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="Artboard" transform="translate(-97.000000, -41.000000)" fill="#000000">
+            <path d="M109.083,45.667 C109.083,44.562 109.978,43.667 111.083,43.667 C112.188,43.667 113.083,44.562 113.083,45.667 C113.083,46.772 112.188,47.667 111.083,47.667 C109.978,47.667 109.083,46.772 109.083,45.667 L109.083,45.667 Z M115,53.086 L110.987,49.074 L110.971,49.089 L110.955,49.074 L109.525,50.504 L104.896,45.876 L104.881,45.892 L104.865,45.876 L99,51.741 L99,43 L115,43 L115,53.086 Z M97,57 L117,57 L117,41 L97,41 L97,57 Z" id="image_picture"></path>
+        </g>
+    </g>
+</svg>
